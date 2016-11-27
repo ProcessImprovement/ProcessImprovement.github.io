@@ -2133,7 +2133,7 @@
 	}
 
 		header.major:after {
-			background: #e44c65;
+			background: #f96f2a;
 			content: '';
 			display: inline-block;
 			height: 0.2em;
@@ -2734,8 +2734,8 @@
 		input[type="button"]:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 1px #e44c65;
-			color: #e44c65 !important;
+			box-shadow: inset 0 0 0 1px #f96f2a;
+			color: #f96f2a !important;
 		}
 
 		input[type="submit"]:active,
@@ -2779,7 +2779,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #e44c65;
+			background-color: #f96f2a;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2788,7 +2788,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #e76278;
+				background-color: #f79d59;
 			}
 
 			input[type="submit"].special:active,
