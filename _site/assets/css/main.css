@@ -3333,9 +3333,10 @@
 
 	#banner {
 		background-attachment: fixed;
-		background-color: #272833;
-		background-image: url("../../images/banner.jpg");
-		background-position: center center;
+		background-color: #bcbedb;
+		background-image: url("../../images/ValleyAerial.png"), url("../../images/overlay.png");
+		background-blend-mode: multiply;
+		background-position: center;
 		background-size: cover;
 		box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
 		min-height: 100vh;
@@ -3383,8 +3384,10 @@
 			}
 
 				#banner .content header h2 {
-					font-size: 2.5em;
+					font-size: 4em;
 					margin: 0;
+					font-weight: bold;
+					color: #ffffff;
 				}
 
 				#banner .content header p {
