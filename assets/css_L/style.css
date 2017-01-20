@@ -29,7 +29,7 @@ a {
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #1FB57B;
+  color: #ed7621;
   outline: none;
 }
 
@@ -49,17 +49,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #1FB57B;
+  background: #ed7621;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #1FB57B;
+  background: #ed7621;
 }
 
 ::selection {
   color: #fff;
-  background: #1FB57B;
+  background: #ed7621;
 }
 
 .btn {
@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #1FB57B;
+  border-color: #ed7621;
 }
 
 .fh5co-social {
@@ -396,7 +396,7 @@ h1, h2, h3, h4, h5, h6, figure {
   outline: none;
   text-decoration: none;
   color: white;
-  background: #1FB57B;
+  background: #ed7621;
   -webkit-border-radius: 40px;
   -moz-border-radius: 40px;
   -ms-border-radius: 40px;
