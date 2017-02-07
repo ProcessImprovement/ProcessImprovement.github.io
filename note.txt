@@ -1,4 +1,6 @@
 OSU PI Group page
+
+Index page:
 * CDTII
 * VT.html
 * Team Award
