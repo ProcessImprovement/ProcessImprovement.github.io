@@ -1,14 +1,15 @@
 OSU PI Group page
 
 Index page:
-* CDTII
+* CDTII.html
+* Project.html
 * VT.html
 * Team Award
 * Research
 -- Menu bar --
 - index.html
-- Conferences.html
-- Application.html
+- 
+- 
 - Members.html
 
 
