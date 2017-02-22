@@ -19,3 +19,24 @@ VT page
 * largeAnimal.html
 * service.html
 * Progress.html
+
+
+2/22
+VT hospital
+	-edit weekly report
+	-Add page for each progress title
+
+CDTII
+	-Engineer Tool kit page
+	-Sopes page
+
+Member page
+	-add project to catelog
+
+Research page
+	-link
+
+Projects page
+	-project 2
+	-project 3
+	-project 4
