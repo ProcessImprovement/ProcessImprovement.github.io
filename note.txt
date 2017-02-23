@@ -25,6 +25,10 @@ VT page
 VT hospital
 		-edit weekly report
 		-Add page for each progress title
+		1. for progress add two tab 1. small 2. Large
+		2. PI group on the menu bar
+		for reception
+			- Document 1 = service specialists scenarios
 
 CDTII
 		-Engineer Tool kit page V
@@ -45,14 +49,3 @@ Projects page
 Team award title V
 
 
-
-
-
-
-VT 
-1. for progress add two tab 1. small 2. Large
-2. PI group on the menu bar
-
-
-for reception
-	- Document 1 = service specialists scenarios
