@@ -23,20 +23,34 @@ VT page
 
 2/22
 VT hospital
-	-edit weekly report
-	-Add page for each progress title
+		-edit weekly report
+		-Add page for each progress title
 
 CDTII
-	-Engineer Tool kit page
-	-Sopes page
+		-Engineer Tool kit page
+	V 	-Sopes page
 
 Member page
-	-add project to catelog
+		-add project to catelog
+		-Add Member page
 
 Research page
-	-link
+		-link
 
 Projects page
-	-project 2
-	-project 3
-	-project 4
+		-project 2
+		-project 3
+		-project 4
+
+
+
+
+
+
+VT 
+1. for progress add two tab 1. small 2. Large
+2. PI group on the menu bar
+
+
+for reception
+	- Document 1 = service specialists scenarios
