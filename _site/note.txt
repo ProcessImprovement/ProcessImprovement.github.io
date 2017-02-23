@@ -27,8 +27,8 @@ VT hospital
 		-Add page for each progress title
 
 CDTII
-		-Engineer Tool kit page
-	V 	-Sopes page
+		-Engineer Tool kit page V
+	 	-Sopes page V
 
 Member page
 		-add project to catelog
@@ -42,7 +42,7 @@ Projects page
 		-project 3
 		-project 4
 
-Team award title
+Team award title V
 
 
 
