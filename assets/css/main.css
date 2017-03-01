@@ -2140,6 +2140,12 @@
 			max-width: 20em;
 			width: 75%;
 		}
+	header .btn {
+		background-color: #f96f2a;
+		padding: 15px 25px;
+		border-radius: 30px;
+		color: white;
+	}
 
 	footer.major {
 		margin: 4em 0 0 0;
