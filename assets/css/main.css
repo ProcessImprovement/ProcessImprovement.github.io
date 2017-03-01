@@ -2140,10 +2140,12 @@
 			max-width: 20em;
 			width: 75%;
 		}
-	header .btn {
+	header .header-btn {
+	margin-top: 30px;
+}
+	header .header-btn .btn {
 		background-color: #f96f2a;
 		padding: 15px 25px;
-		margin-top: 30px;
 		border-radius: 30px;
 		color: white;
 		border: none;
