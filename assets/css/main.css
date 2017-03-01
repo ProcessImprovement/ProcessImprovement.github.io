@@ -2153,7 +2153,7 @@
     		font-size: 24px;
 }
 	}
-	.btn:hover {
+	header .header-btn .btn:hover {
 	color: white;
 }
 	footer.major {
