@@ -2143,19 +2143,7 @@
 	header .header-btn {
 	margin-top: 30px;
 }
-	header .header-btn .btn {
-		background-color: #f96f2a;
-		padding: 15px 25px;
-		border-radius: 30px;
-		color: white;
-		border: none;
-   	 	font-weight: 500;
-    		font-size: 24px;
-}
-	}
-	header .header-btn a:hover {
-	color: white;
-}
+
 	footer.major {
 		margin: 4em 0 0 0;
 	}
@@ -4018,3 +4006,16 @@
 					}
 
 	}
+	header .header-btn .btn {
+		background-color: #f96f2a;
+		padding: 15px 25px;
+		border-radius: 30px;
+		color: white;
+		border: none;
+   	 	font-weight: 500;
+    		font-size: 24px;
+}
+	}
+	header .header-btn a:hover {
+	color: white !important;
+}
