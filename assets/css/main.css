@@ -4019,3 +4019,110 @@
 	header .header-btn a:hover {
 	color: white !important;
 }
+/* Arrows */
+.process-wrap {
+     margin-bottom: 30px;
+     position: relative;
+     text-align: center;
+}
+.arrow-wrap {
+    position: relative;
+    height: 84px;
+    min-height: 25px;
+    width: 170px;
+    display: inline-block;
+    margin-right: 20px;
+}
+.arr-top, .arr-bottom  {
+     border-left: 0;
+    border-right: 50px solid transparent;
+    position: absolute;
+    right: 0;
+}
+.arr-bg {
+     position: absolute;
+    top: 0;
+    right: 50px;
+    bottom: 0;
+    left: 0;
+}
+.arr-1-top {
+     border-bottom: 50px solid rgba(226, 28, 33, 1);
+    bottom: 50% !important;
+}
+.arr-1-bottom {
+     border-top: 50px solid rgba(226, 28, 33, 1);
+    top: 50% !important;
+}
+.arr-1-bg {
+     background: rgba(226, 28, 33, 1);
+}
+.arr-2-top {
+    border-bottom: 50px solid rgba(241, 116, 36, 1);
+    bottom: 50% !important;
+}
+.arr-2-bottom {
+    border-top: 50px solid rgba(241, 116, 36, 1);
+    top: 50% !important;
+}
+.arr-2-bg {
+     background: rgba(241, 116, 36, 1);
+}
+.arr-3-top {
+    border-bottom: 50px solid rgba(240, 212, 72, 1);
+    bottom: 50% !important;
+}
+.arr-3-bottom {
+    border-top: 50px solid rgba(240, 212, 72, 1);
+    top: 50% !important;
+}
+.arr-3-bg {
+    background: rgba(240, 212, 72, 1);
+}
+.arr-4-top {
+    border-bottom: 50px solid rgba(1, 177, 175, 1);
+    bottom: 50% !important;
+}
+.arr-4-bottom {
+    border-top: 50px solid rgba(1, 177, 175, 1);
+    top: 50% !important;
+}
+.arr-4-bg {
+    background: rgba(1, 177, 175, 1);
+}
+.arr-5-top {
+    border-bottom: 50px solid rgba(43, 108, 163, 1);
+    bottom: 50% !important;
+}
+.arr-5-bottom {
+    border-top: 50px solid rgba(43, 108, 163, 1);
+    top: 50% !important;
+}
+.arr-5-bg {
+    background: rgba(43, 108, 163, 1);
+}
+.arrow-wrap a {
+     text-decoration: none;
+     position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    text-align: initial;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+.arrow-wrap a span {
+     font: normal normal 700 18px/1.4em helvetica-w01-light,helvetica-w02-light,sans-serif;
+    color: #FFFFFF;
+    display: inline-block;
+    position: relative;
+    white-space: nowrap;
+}
